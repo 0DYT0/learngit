@@ -1,4 +1,9 @@
 hello wrold
 hh i am  waring
+<<<<<<< HEAD
 knowledge is  power
 hh i am  exceellent!
+=======
+i am execllent
+nice body
+>>>>>>> 02c288f4772227147fd661c34de0698ea14457dd
